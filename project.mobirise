@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.6.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.0.17",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -121,7 +121,7 @@
           },
           "_name": "gallery3",
           "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,Slider,BootstrapCarouselSwipe,Gallery,VimeoVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#050000\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\"></div>\n    </div>\n\n</section>",
-          "_cid": "qKW4cMzVl0",
+          "_cid": "qKWD9LarLe",
           "_protectedParams": [
             "text_all",
             "gallery"
@@ -132,7 +132,7 @@
             "text_all": "All",
             "gallery": [
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -148,20 +148,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/19224782-1600849369939934-4206557433304016238-n-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19224782-1600849369939934-4206557433304016238-n-720x960-720x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/18199569-1559404117417793-5695926019224814023-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18199569-1559404117417793-5695926019224814023-n-720x960-720x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/18447661-1569274496430755-4895363541173567957-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/18447661-1569274496430755-4895363541173567957-n-720x960-720x960.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/19113762-1600849399939931-1096571993572429393-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19113762-1600849399939931-1096571993572429393-n-720x960-720x960.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/19260672-1625916707433200-1174530585092710840-n-720x960.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/19260672-1625916707433200-1174530585092710840-n-720x960-720x960.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/22729174-1745374272154109-7831254725334814358-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/22729174-1745374272154109-7831254725334814358-n-720x960-720x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -180,56 +216,20 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/27654576-1867988849892650-783394041586958194-n-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/27654576-1867988849892650-783394041586958194-n-720x960-720x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/22729174-1745374272154109-7831254725334814358-n-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/22729174-1745374272154109-7831254725334814358-n-720x960-720x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/27459295-1867987513226117-4715466510411137823-n-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/27459295-1867987513226117-4715466510411137823-n-720x960-720x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26731578-1841543532537182-3995851753648494450-n-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26731578-1841543532537182-3995851753648494450-n-720x960-720x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/19894551-1625916700766534-5077599350405076771-n-720x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/19894551-1625916700766534-5077599350405076771-n-720x960-720x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
-          "_anchor": "gallery3-8"
+          "_anchor": "gallery3-h"
         },
         {
           "_styles": {
